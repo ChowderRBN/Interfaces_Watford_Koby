@@ -1,0 +1,14 @@
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\obj\Debug\net7.0\Interfaces_Watford_Koby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\obj\Debug\net7.0\Interfaces_Watford_Koby.AssemblyInfoInputs.cache
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\obj\Debug\net7.0\Interfaces_Watford_Koby.AssemblyInfo.cs
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\obj\Debug\net7.0\Interfaces_Watford_Koby.csproj.CoreCompileInputs.cache
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\bin\Debug\net7.0\Interfaces_Watford_Koby.exe
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\bin\Debug\net7.0\Interfaces_Watford_Koby.deps.json
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\bin\Debug\net7.0\Interfaces_Watford_Koby.runtimeconfig.json
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\bin\Debug\net7.0\Interfaces_Watford_Koby.dll
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\bin\Debug\net7.0\Interfaces_Watford_Koby.pdb
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\obj\Debug\net7.0\Interfaces_Watford_Koby.dll
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\obj\Debug\net7.0\refint\Interfaces_Watford_Koby.dll
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\obj\Debug\net7.0\Interfaces_Watford_Koby.pdb
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\obj\Debug\net7.0\Interfaces_Watford_Koby.genruntimeconfig.cache
+C:\Users\KobyWatford\source\repos\Interfaces_Watford_Koby\Interfaces_Watford_Koby\obj\Debug\net7.0\ref\Interfaces_Watford_Koby.dll
